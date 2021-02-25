@@ -1,3 +1,5 @@
+#!/bin/bash
+
 docker run -itd \
 	--name oracle18 \
 	--privileged=true \
